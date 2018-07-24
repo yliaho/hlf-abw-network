@@ -1,0 +1,5 @@
+/channel-artifacts/*.tx
+/channel-artifacts/*.block
+/crypto-config/*
+/ledgers
+/ledgers-backup
